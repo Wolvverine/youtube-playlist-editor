@@ -2,7 +2,7 @@
     "name": "youtube-playlist-editor",
     "version": "0.4.0",
     "private": true,
-    "homepage": "https://francoisgeorgy.github.io/youtube-playlist-editor",
+    "homepage": "https://Wolvverine.github.io/youtube-playlist-editor",
     "dependencies": {
         "eslint-config-prettier": "^6.1.0",
         "immer": "^3.2.0",
